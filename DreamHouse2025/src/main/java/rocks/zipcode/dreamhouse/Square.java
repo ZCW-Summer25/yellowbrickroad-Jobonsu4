@@ -22,7 +22,7 @@ public class Square
      */
     public Square()
     {
-        size = 30;
+        size = 60;
         xPosition = 60;
         yPosition = 50;
         color = "red";
@@ -123,6 +123,7 @@ public class Square
         }
     }
 
+    
     /**
      * Slowly move the square vertically by 'distance' pixels.
      */
